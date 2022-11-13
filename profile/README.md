@@ -2,7 +2,7 @@
 
 Bento is a [Discord]() Bot dedicated to helping community managers build, grow and manage their communities. It features powerful tools for moderation, management, community engagement and more.
 
-<img width="378" alt="CleanShot 2022-11-12 at 12 12 10@2x" src="https://user-images.githubusercontent.com/7383025/201473319-603051aa-cbec-4b91-a5ea-c0f530d516fb.png">
+<a href="https://bento-bot.com/invite?utm_source=github" target="_blank"><img width="378" alt="CleanShot 2022-11-12 at 12 12 10@2x" src="https://user-images.githubusercontent.com/7383025/201473319-603051aa-cbec-4b91-a5ea-c0f530d516fb.png"></a>
 
 ---
 
